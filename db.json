@@ -1,0 +1,62 @@
+{
+  "course": [
+    {
+      "id": "ad8c",
+      "courseName": "Back end",
+      "courseDuration": "8",
+      "coursePrice": "240"
+    },
+    {
+      "id": "3f11",
+      "courseName": "Pythone ",
+      "courseDuration": "7",
+      "coursePrice": "140"
+    },
+    {
+      "id": "8c8b",
+      "courseName": "Front end",
+      "courseDuration": "8",
+      "coursePrice": "210"
+    }
+  ],
+  "guruh": [
+    {
+      "id": "cd0c",
+      "guruhName": "n14",
+      "courseName": "Pythone "
+    },
+    {
+      "id": "d396",
+      "guruhName": "n13",
+      "courseName": "Pythone "
+    }
+  ],
+  "teacher": [
+    {
+      "id": "498c",
+      "teacherName": "Temur Ergashov",
+      "courseName": "Front end"
+    },
+    {
+      "id": "91d7",
+      "teacherName": "Jamshidbek Nematov",
+      "courseName": "Pythone "
+    },
+    {
+      "id": "f01e",
+      "teacherName": "Dilshod Abdualimov",
+      "courseName": "Back end"
+    }
+  ],
+  "student": [
+    {
+      "id": "a03d",
+      "studentFullName": "Abdullajon Qurbonov",
+      "studentAge": "20",
+      "phoneNumber": "+998 90 630 77 05",
+      "courseName": "Back end",
+      "guruhName": "n14",
+      "teacherName": "Jamshidbek Nematov"
+    }
+  ]
+}
